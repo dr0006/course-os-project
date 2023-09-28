@@ -6,7 +6,7 @@
 
 * ***Fxx***
 
-- ***[github--@DR006](https://github.com/DR006)***
+- ***[github--@DR0006](https://github.com/DR0006)***
 - ***[CSDN--@Fx_x](https://blog.csdn.net/Fx_2003)***
 
 ## 实验:
