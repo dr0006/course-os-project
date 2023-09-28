@@ -6,8 +6,8 @@
 
 * ***Fxx***
 
-- ***[github--@FxDr2003](https://github.com/FxDr2003)***
-- ***[CSDN--@Fxx_2003](https://blog.csdn.net/Fx_2003?type=blog)***
+- ***[github--@DR006](https://github.com/DR006)***
+- ***[CSDN--@Fx_x](https://blog.csdn.net/Fx_2003)***
 
 ## 实验:
 
